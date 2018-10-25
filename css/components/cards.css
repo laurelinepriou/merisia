@@ -1,0 +1,25 @@
+.cards {
+	display: flex;
+	flex-wrap: wrap;
+	flex-grow: 1;
+	justify-content: space-between;
+   margin:auto;
+
+}
+
+.card {
+	 align-items: center;
+    flex-basis: 250px;
+    margin : 5px;
+}
+
+.card img {
+	background-size: cover;
+	 width:250px;
+	 height: auto;
+}
+
+#image_index_welcome {
+	width: 250px;
+	height: auto;
+}

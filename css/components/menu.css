@@ -1,0 +1,17 @@
+.menu {
+	font-family: anton, sans-serif;
+	font-size: 20px;
+	font-weight: lighter;
+	background-color: #222324;
+	border-bottom: 2px solid black;
+	float: right;
+	position: fixed;
+	margin-right: auto;
+	width: 100%;
+	z-index: 4;
+}
+
+.menu li {
+	display: inline;
+	padding: 0px 10px;
+}

@@ -1,0 +1,39 @@
+@import url("https://fonts.googleapis.com/css?family=Anton|Montserrat|Open+Sans:300,400,600,700");
+@import url("components/container.css");
+@import url("components/avatar.css");
+@import url("components/button.css");
+@import url("components/banner.css");
+@import url("components/footer.css");
+@import url("components/menu.css");
+@import url("components/some.css");
+@import url("components/cards.css");
+
+
+
+body {
+	background-color: #222324;
+	font-family: open sans, sans-serif;
+	font-size: 15px;
+	color: #D8D9DB;
+	margin: 0px;
+}
+
+h1, h2, h3 {
+	font-family: open sans, sans-serif;
+	font-weight: 700;
+	text-transform: uppercase;
+	letter-spacing: 2px;
+}
+
+a {
+	text-decoration: none;
+}
+
+a:hover {
+	color: white;
+
+}
+
+ul {
+	list-style-type: none;
+}
